@@ -4,7 +4,8 @@ Passionate about building scalable, efficient solutions using Java and AWS over 
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/himanshi-bobde-b311261b6/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/himanshi1107
-) [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:himanshibobde@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BobdeHimanshi?t=lgGm1R7hkKySRLMV7U7now&s=08 ) 
+) [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:himanshibobde@gmail.com) [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/BobdeHimanshi) 
+
 
 ## 🎓 Education
 
