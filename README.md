@@ -3,8 +3,7 @@ Passionate about building scalable, efficient solutions using Java and AWS over 
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/himanshi-bobde-b311261b6/) 
-) [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:himanshibobde@gmail.com) [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/BobdeHimanshi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/himanshi-bobde-b311261b6/)  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:himanshibobde@gmail.com)  [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/BobdeHimanshi) 
 
 
 # 💻 Tech Stack
